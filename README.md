@@ -77,8 +77,8 @@ worst.
 ## 1️⃣ Clone Repository
 
 ``` bash
-git clone https://github.com/Achin-Agarwal/Topsis.git
-cd Topsis
+git clone https://github.com/AbhishekG160/UCS654_Topsis_assignment_2.git
+cd UCS654_Topsis_assignment_2
 cd topsis-web
 ```
 
@@ -91,7 +91,7 @@ npm install
 ## 3️⃣ Install Python Package
 
 ``` bash
-pip install Topsis-Achin-102316011
+pip install Topsis-Abhishek-102316027
 ```
 
 ## 4️⃣ Setup Environment Variables
@@ -163,9 +163,9 @@ Rules:
 
 # 👨‍💻 Author
 
-Your Name
-Roll No: 102316011
-GitHub: https://github.com/achin-agarwal
+Abhishek Gupta
+Roll No: 102316027
+GitHub: https://github.com/AbhishekG160
 
 ------------------------------------------------------------------------
 
